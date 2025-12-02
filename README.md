@@ -14,7 +14,7 @@ Advent of Code is an annual set of Christmas-themed programming puzzles that can
 │   ├── day01/
 │   ├── day02/
 │   └── ...
-├── 2023/
+├── 2025/
 │   ├── day01/
 │   └── ...
 └── README.md
